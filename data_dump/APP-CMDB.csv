@@ -1,0 +1,398 @@
+﻿SERVER_NAME,APPLICATION_NAME,GEAR_ID,CI_CATEGORY,DV_INSTALL_STATUS,IP_ADDRESS,DV_OPERATIONAL_STATUS,DV_SUPPORT_GROUP
+Apache server@plchwscmniweb02,UW-GAIN,989,cmdb_ci_apache_web_server,Installed,,Operational,DBG CTO App Svcs Middleware
+Apache server@plchwscmniweb01,UW-GAIN,989,cmdb_ci_apache_web_server,Installed,,Operational,UW-GAIN
+Apache server@plchwscmniweb01,UW-GAIN,989,cmdb_ci_apache_web_server,Installed,,Operational,
+Apache server@plchwscmniweb01,UW-GAIN,989,cmdb_ci_apache_web_server,Installed,,Operational,
+Apache server@plchwscmniweb02,UW-GAIN,989,cmdb_ci_apache_web_server,Installed,,Operational,
+Apache server@plgiasuwgnel001,UW-GAIN,989,cmdb_ci_apache_web_server,Installed,,Operational,UW-GAIN
+Apache server@plchwscmniweb02,UW-GAIN,989,cmdb_ci_apache_web_server,Installed,,Operational,
+Apache server@plchwscmniweb02,UW-GAIN,989,cmdb_ci_apache_web_server,Installed,,Operational,
+Apache server@plgiasuwgnel001,UW-GAIN,989,cmdb_ci_apache_web_server,Installed,,Operational,UW-GAIN
+Apache server@plgsascs6412003,Global Location Management System,6412,cmdb_ci_apache_web_server,Installed,,Operational,Global Location Management System-SUPP
+Apache server@plchwscmniweb01,UW-GAIN,989,cmdb_ci_apache_web_server,Installed,,Operational,
+Apache server@plchwscmniweb02,UW-GAIN,989,cmdb_ci_apache_web_server,Installed,,Operational,
+Apache server@plchwscmniweb01,UW-GAIN,989,cmdb_ci_apache_web_server,Installed,,Operational,
+Apache server@plgsascs6412003,Global Location Management System,6412,cmdb_ci_apache_web_server,Retired,,Non-Operational,
+Apache server@rlawwtcm3653002,MN-Workflow Xpress,3653,cmdb_ci_apache_web_server,Installed,,Operational,MN-Workflow
+Apache server@plchwscmniweb02,UW-GAIN,989,cmdb_ci_apache_web_server,Installed,,Operational,DBG CTO App Svcs Middleware
+Apache server@plchwscmniweb01,UW-GAIN,989,cmdb_ci_apache_web_server,Installed,,Operational,DBG CTO App Svcs Middleware
+Apache server@plchwscmniweb01,UW-GAIN,989,cmdb_ci_apache_web_server,Installed,,Operational,Web & MW Services
+Apache server@plchwscmniweb01,UW-GAIN,989,cmdb_ci_apache_web_server,Installed,,Operational,Web & MW Services
+Apache server@plgsascs6412002,Global Location Management System,6412,cmdb_ci_apache_web_server,Retired,,Non-Operational,
+Apache server@rlawwtcm3653002,MN-Workflow Xpress,3653,cmdb_ci_apache_web_server,Installed,,Operational,MN-Workflow
+Apache server@rlawwtcm3653001,MN-Workflow Xpress,3653,cmdb_ci_apache_web_server,Installed,,Operational,MN-Workflow
+Apache server@plchwscmniweb01,UW-GAIN,989,cmdb_ci_apache_web_server,Installed,,Operational,DBG CTO App Svcs Middleware
+Apache server@plchwscmniweb02,UW-GAIN,989,cmdb_ci_apache_web_server,Installed,,Operational,DBG CTO App Svcs Middleware
+Apache server@plgiasuwgnel002,UW-GAIN,989,cmdb_ci_apache_web_server,Installed,,Operational,UW-GAIN
+Apache server@plchwscmniweb02,UW-GAIN,989,cmdb_ci_apache_web_server,Installed,,Operational,
+Apache server@plchwscmniweb01,UW-GAIN,989,cmdb_ci_apache_web_server,Installed,,Operational,DBG CTO App Svcs Middleware
+Apache server@plchwscmniweb02,UW-GAIN,989,cmdb_ci_apache_web_server,Installed,,Operational,DBG CTO App Svcs Middleware
+Apache server@plchwscmniweb01,UW-GAIN,989,cmdb_ci_apache_web_server,Installed,,Operational,DBG CTO App Svcs Middleware
+Apache server@plgsascs6412001,Global Location Management System,6412,cmdb_ci_apache_web_server,Installed,,Operational,Global Location Management System-SUPP
+Apache server@plgsascs6412002,Global Location Management System,6412,cmdb_ci_apache_web_server,Retired,,Non-Operational,Global Location Management System-SUPP
+Apache server@plchwscmniweb02,UW-GAIN,989,cmdb_ci_apache_web_server,Installed,,Operational,
+Apache server@plchwscmniweb01,UW-GAIN,989,cmdb_ci_apache_web_server,Installed,,Operational,DBG CTO App Svcs Middleware
+Apache server@plgsascs6412001,Global Location Management System,6412,cmdb_ci_apache_web_server,Retired,,Operational,Global Location Management System-SUPP
+Apache server@plchwscmniweb02,UW-GAIN,989,cmdb_ci_apache_web_server,Installed,,Operational,
+Apache server@plchwscmniweb01,UW-GAIN,989,cmdb_ci_apache_web_server,Installed,,Operational,Web & MW Services
+Apache server@plchwscmniweb02,UW-GAIN,989,cmdb_ci_apache_web_server,Installed,,Operational,
+Apache server@plchwscmniweb01,UW-GAIN,989,cmdb_ci_apache_web_server,Installed,,Operational,
+Apache server@plgiasuwgnel002,UW-GAIN,989,cmdb_ci_apache_web_server,Installed,,Operational,Web & MW Services
+Apache server@plgsascs6412003,Global Location Management System,6412,cmdb_ci_apache_web_server,Installed,,Operational,Global Location Management System-SUPP
+Apache server@plchwscmniweb02,UW-GAIN,989,cmdb_ci_apache_web_server,Installed,,Operational,
+Apache server@plchwscmniweb01,UW-GAIN,989,cmdb_ci_apache_web_server,Installed,,Operational,
+Apache server@plchwscmniweb02,UW-GAIN,989,cmdb_ci_apache_web_server,Installed,,Operational,DBG CTO App Svcs Middleware
+Apache server@plchwscmniweb01,UW-GAIN,989,cmdb_ci_apache_web_server,Installed,,Operational,
+Apache server@plchwscmniweb02,UW-GAIN,989,cmdb_ci_apache_web_server,Installed,,Operational,Web & MW Services
+Apache server@plchwscmniweb02,UW-GAIN,989,cmdb_ci_apache_web_server,Installed,,Operational,UW-EUPS
+Apache server@plchwscmniweb01,UW-GAIN,989,cmdb_ci_apache_web_server,Installed,,Operational,
+Apache server@plgsascs6412001,Global Location Management System,6412,cmdb_ci_apache_web_server,Retired,,Non-Operational,
+Apache server@plchwscmniweb02,UW-GAIN,989,cmdb_ci_apache_web_server,Installed,,Operational,DBG CTO App Svcs Middleware
+Apache server@plchwscmniweb02,UW-GAIN,989,cmdb_ci_apache_web_server,Installed,,Operational,DBG CTO App Svcs Middleware
+Apache server@plchwscmniweb01,UW-GAIN,989,cmdb_ci_apache_web_server,Installed,,Operational,
+Apache server@plchwscmniweb01,UW-GAIN,989,cmdb_ci_apache_web_server,Installed,,Operational,
+Apache server@plchwscmniweb02,UW-GAIN,989,cmdb_ci_apache_web_server,Installed,,Operational,UW-GAIN
+Apache server@plchwscmniweb02,UW-GAIN,989,cmdb_ci_apache_web_server,Installed,,Operational,DBG CTO App Svcs Middleware
+Apache server@plchwscmniweb01,UW-GAIN,989,cmdb_ci_apache_web_server,Installed,,Operational,
+Apache server@plchwscmniweb02,UW-GAIN,989,cmdb_ci_apache_web_server,Installed,,Operational,
+Apache server@plchwscmniweb01,UW-GAIN,989,cmdb_ci_apache_web_server,Installed,,Operational,
+Apache server@rlawwtcm3653001,MN-Workflow Xpress,3653,cmdb_ci_apache_web_server,Installed,,Operational,MN-Workflow
+Apache server@plgsascs6412002,Global Location Management System,6412,cmdb_ci_apache_web_server,Installed,,Operational,Global Location Management System-SUPP
+Apache server@plchwscmniweb02,UW-GAIN,989,cmdb_ci_apache_web_server,Installed,,Operational,UW-GAIN
+Apache server@plchwscmniweb02,UW-GAIN,989,cmdb_ci_apache_web_server,Installed,,Operational,
+Apache server@plchwscmniweb01,UW-GAIN,989,cmdb_ci_apache_web_server,Installed,,Operational,UW-GAIN
+Apache server@plchwscmniweb01,UW-GAIN,989,cmdb_ci_apache_web_server,Installed,,Operational,
+Apache server@plchwscmniweb02,UW-GAIN,989,cmdb_ci_apache_web_server,Installed,,Operational,DBG CTO App Svcs Middleware
+Apache server@plchwscmniweb02,UW-GAIN,989,cmdb_ci_apache_web_server,Installed,,Operational,
+Apache server@plchwscmniweb02,UW-GAIN,989,cmdb_ci_apache_web_server,Installed,,Operational,
+Apache server@plchwscmniweb02,UW-GAIN,989,cmdb_ci_apache_web_server,Installed,,Operational,
+Apache server@plchwscmniweb01,UW-GAIN,989,cmdb_ci_apache_web_server,Installed,,Operational,UW-GAIN
+Apache server@plchwscmniweb01,UW-GAIN,989,cmdb_ci_apache_web_server,Installed,,Operational,DBG CTO App Svcs Middleware
+Apache server@plchwscmniweb02,UW-GAIN,989,cmdb_ci_apache_web_server,Installed,,Operational,
+Apache server@plchwscmniweb02,UW-GAIN,989,cmdb_ci_apache_web_server,Installed,,Operational,DBG CTO App Svcs Middleware
+Apache server@plchwscmniweb01,UW-GAIN,989,cmdb_ci_apache_web_server,Installed,,Operational,
+Apache server@plchwscmniweb01,UW-GAIN,989,cmdb_ci_apache_web_server,Installed,,Operational,Web & MW Services
+Apache server@plchwscmniweb01,UW-GAIN,989,cmdb_ci_apache_web_server,Installed,,Operational,
+Apache server@plchwscmniweb01,UW-GAIN,989,cmdb_ci_apache_web_server,Installed,,Operational,DBG CTO App Svcs Middleware
+Tomcat:9010@plgiasuwgnel001,UW-GAIN,989,cmdb_ci_app_server_tomcat,Installed,,Operational,UW-GAIN
+Tomcat:9010@plgiasuwgnel001,UW-GAIN,989,cmdb_ci_app_server_tomcat,Installed,,Operational,Web & MW Services
+Tomcat:9010@plgiasuwgnel002,UW-GAIN,989,cmdb_ci_app_server_tomcat,Installed,,Operational,UW-GAIN
+Tomcat:20005@rlawwtcm3653003,MN-Workflow Xpress,3653,cmdb_ci_app_server_tomcat,Installed,,Operational,MN-Workflow
+Tomcat:9010@plgiasuwgnel002,UW-GAIN,989,cmdb_ci_app_server_tomcat,Installed,,Operational,Web & MW Services
+Tomcat:19005@rlawwtcm3653003,MN-Workflow Xpress,3653,cmdb_ci_app_server_tomcat,Installed,,Operational,MN-Workflow
+Tomcat:18005@rlawwtcm3653003,MN-Workflow Xpress,3653,cmdb_ci_app_server_tomcat,Installed,,Operational,MN-Workflow
+MongoDB Instance@plgsdscs6224004,SCUP Entitlements,6224,cmdb_ci_db_mongodb_instance,Absent,,Non-Operational,DBG CTO DBA
+MongoDB Instance@plgsdscs6224000,SCUP Entitlements,6224,cmdb_ci_db_mongodb_instance,Retired,,Non-Operational,DBG CTO DBA
+MongoDB Instance@plgsdscs6224005_DUP,SCUP Digital Workflow,6225,cmdb_ci_db_mongodb_instance,Retired,,Non-Operational,DBG CTO DBA
+MongoDB Instance@plgsdscs6224003,SCUP Digital Workflow,6225,cmdb_ci_db_mongodb_instance,Retired,,Non-Operational,DBG CTO DBA
+MongoDB Instance@plgsdscs6224004,SCUP Digital Workflow,6225,cmdb_ci_db_mongodb_instance,Absent,,Operational,
+MongoDB Instance@plgsdscs6224005_DUP,SCUP Entitlements,6224,cmdb_ci_db_mongodb_instance,Retired,,Non-Operational,DBG CTO DBA
+MongoDB Instance@plgsdscs6224001,SCUP Entitlements,6224,cmdb_ci_db_mongodb_instance,Absent,,Operational,
+MongoDB Instance@plgsdscs6224001_DUP,SCUP Entitlements,6224,cmdb_ci_db_mongodb_instance,Retired,,Non-Operational,DBG CTO DBA
+MongoDB Instance@plgsdscs6224001_DUP,SCUP Digital Workflow,6225,cmdb_ci_db_mongodb_instance,Retired,,Non-Operational,DBG CTO DBA
+MongoDB Instance@plgsdscs6224000,SCUP Digital Workflow,6225,cmdb_ci_db_mongodb_instance,Retired,,Non-Operational,
+MongoDB Instance@plgsdscs6224005,SCUP Digital Workflow,6225,cmdb_ci_db_mongodb_instance,Absent,,Operational,UW-CONSOLE
+MongoDB Instance@plgsdscs6224002,SCUP Digital Workflow,6225,cmdb_ci_db_mongodb_instance,Absent,,Non-Operational,DBG CTO DBA
+MongoDB Instance@plgsdscs6224000,SCUP Entitlements,6224,cmdb_ci_db_mongodb_instance,Retired,,Non-Operational,DBG CTO DBA
+MongoDB Instance@plgsdscs6224003,SCUP Digital Workflow,6225,cmdb_ci_db_mongodb_instance,Absent,,Operational,UW-CONSOLE
+MongoDB Instance@plgsdscs6224002,SCUP Digital Workflow,6225,cmdb_ci_db_mongodb_instance,Absent,,Operational,SCUP Entitlements-SUPP
+MongoDB Instance@plgsdscs6224001_DUP,SCUP Entitlements,6224,cmdb_ci_db_mongodb_instance,Retired,,Non-Operational,DBG CTO DBA
+MongoDB Instance@plgsdscs6224002,SCUP Entitlements,6224,cmdb_ci_db_mongodb_instance,Absent,,Operational,SCUP Entitlements-SUPP
+MongoDB Instance@plgsdscs6224005,SCUP Entitlements,6224,cmdb_ci_db_mongodb_instance,Absent,,Operational,
+MongoDB Instance@plgsdscs6224005,SCUP Digital Workflow,6225,cmdb_ci_db_mongodb_instance,Absent,,Operational,
+MongoDB Instance@plgsdscs6224005_DUP,SCUP Digital Workflow,6225,cmdb_ci_db_mongodb_instance,Retired,,Non-Operational,DBG CTO DBA
+MongoDB Instance@plgsdscs6224004,SCUP Digital Workflow,6225,cmdb_ci_db_mongodb_instance,Retired,,Non-Operational,DBG CTO DBA
+MongoDB Instance@plgsdscs6224004,SCUP Entitlements,6224,cmdb_ci_db_mongodb_instance,Retired,,Non-Operational,DBG CTO DBA
+MongoDB Instance@plgsdscs6224004,SCUP Entitlements,6224,cmdb_ci_db_mongodb_instance,Absent,,Operational,
+MongoDB Instance@plgsdscs6224002,SCUP Digital Workflow,6225,cmdb_ci_db_mongodb_instance,Retired,,Non-Operational,DBG CTO DBA
+MongoDB Instance@plgsdscs6224002,SCUP Entitlements,6224,cmdb_ci_db_mongodb_instance,Retired,,Non-Operational,DBG CTO DBA
+MongoDB Instance@plgsdscs6224003,SCUP Entitlements,6224,cmdb_ci_db_mongodb_instance,Retired,,Non-Operational,DBG CTO DBA
+MongoDB Instance@plgsdscs6224005_DUP,SCUP Entitlements,6224,cmdb_ci_db_mongodb_instance,Retired,,Non-Operational,DBG CTO DBA
+MongoDB Instance@plgsdscs6224004,SCUP Digital Workflow,6225,cmdb_ci_db_mongodb_instance,Retired,,Non-Operational,DBG CTO DBA
+MongoDB Instance@plgsdscs6224001_DUP,SCUP Digital Workflow,6225,cmdb_ci_db_mongodb_instance,Retired,,Non-Operational,DBG CTO DBA
+MongoDB Instance@plgsdscs6224004,SCUP Digital Workflow,6225,cmdb_ci_db_mongodb_instance,Absent,,Non-Operational,DBG CTO DBA
+MongoDB Instance@plgsdscs6224004,SCUP Digital Workflow,6225,cmdb_ci_db_mongodb_instance,Absent,,Operational,UW-CONSOLE
+MongoDB Instance@plgsdscs6224004,SCUP Entitlements,6224,cmdb_ci_db_mongodb_instance,Absent,,Operational,UW-CONSOLE
+MongoDB Instance@plgsdscs6224003,SCUP Digital Workflow,6225,cmdb_ci_db_mongodb_instance,Absent,,Non-Operational,DBG CTO DBA
+MongoDB Instance@plgsdscs6224003,SCUP Entitlements,6224,cmdb_ci_db_mongodb_instance,Absent,,Non-Operational,DBG CTO DBA
+MongoDB Instance@plgsdscs6224002,SCUP Digital Workflow,6225,cmdb_ci_db_mongodb_instance,Retired,,Non-Operational,DBG CTO DBA
+MongoDB Instance@plgsdscs6224002,SCUP Entitlements,6224,cmdb_ci_db_mongodb_instance,Retired,,Non-Operational,DBG CTO DBA
+MongoDB Instance@plgsdscs6224005_DUP,SCUP Entitlements,6224,cmdb_ci_db_mongodb_instance,Retired,,Non-Operational,DBG CTO DBA
+MongoDB Instance@plgsdscs6224005_DUP,SCUP Digital Workflow,6225,cmdb_ci_db_mongodb_instance,Retired,,Non-Operational,DBG CTO DBA
+MongoDB Instance@plgsdscs6224001,SCUP Digital Workflow,6225,cmdb_ci_db_mongodb_instance,Absent,,Operational,
+MongoDB Instance@plgsdscs6224003,SCUP Entitlements,6224,cmdb_ci_db_mongodb_instance,Absent,,Operational,UW-CONSOLE
+MongoDB Instance@plgsdscs6224000,SCUP Digital Workflow,6225,cmdb_ci_db_mongodb_instance,Retired,,Non-Operational,DBG CTO DBA
+MongoDB Instance@plgsdscs6224002,SCUP Entitlements,6224,cmdb_ci_db_mongodb_instance,Absent,,Non-Operational,DBG CTO DBA
+MongoDB Instance@plgsdscs6224000,SCUP Entitlements,6224,cmdb_ci_db_mongodb_instance,Absent,,Operational,
+MongoDB Instance@plgsdscs6224000,SCUP Digital Workflow,6225,cmdb_ci_db_mongodb_instance,Absent,,Operational,
+MongoDB Instance@plgsdscs6224005,SCUP Entitlements,6224,cmdb_ci_db_mongodb_instance,Absent,,Operational,UW-CONSOLE
+MongoDB Instance@plgsdscs6224000,SCUP Entitlements,6224,cmdb_ci_db_mongodb_instance,Retired,,Non-Operational,
+MongoDB Instance@plgsdscs6224005,SCUP Digital Workflow,6225,cmdb_ci_db_mongodb_instance,Absent,,Operational,SCUP Entitlements-SUPP
+MongoDB Instance@plgsdscs6224005,SCUP Entitlements,6224,cmdb_ci_db_mongodb_instance,Absent,,Operational,SCUP Entitlements-SUPP
+MongoDB Instance@plgsdscs6224003,SCUP Entitlements,6224,cmdb_ci_db_mongodb_instance,Absent,,Operational,
+MongoDB Instance@plgsdscs6224003,SCUP Digital Workflow,6225,cmdb_ci_db_mongodb_instance,Absent,,Operational,
+MongoDB Instance@plgsdscs6224001_DUP,SCUP Entitlements,6224,cmdb_ci_db_mongodb_instance,Retired,,Non-Operational,DBG CTO DBA
+MongoDB Instance@plgsdscs6224001_DUP,SCUP Digital Workflow,6225,cmdb_ci_db_mongodb_instance,Retired,,Non-Operational,DBG CTO DBA
+MongoDB Instance@plgsdscs6224000,SCUP Digital Workflow,6225,cmdb_ci_db_mongodb_instance,Retired,,Non-Operational,DBG CTO DBA
+MongoDB Instance@plgsdscs6224003,SCUP Digital Workflow,6225,cmdb_ci_db_mongodb_instance,Retired,,Non-Operational,DBG CTO DBA
+MongoDB Instance@plgsdscs6224003,SCUP Entitlements,6224,cmdb_ci_db_mongodb_instance,Retired,,Non-Operational,DBG CTO DBA
+MongoDB Instance@plgsdscs6224000,SCUP Digital Workflow,6225,cmdb_ci_db_mongodb_instance,Retired,,Non-Operational,DBG CTO DBA
+MongoDB Instance@plgsdscs6224000,SCUP Entitlements,6224,cmdb_ci_db_mongodb_instance,Retired,,Non-Operational,DBG CTO DBA
+MongoDB Instance@plgsdscs6224004,SCUP Entitlements,6224,cmdb_ci_db_mongodb_instance,Retired,,Non-Operational,DBG CTO DBA
+NONRATING_EXPOSURE_SCHEDULE_PROD@MSSQLSERVER@pwawadbcm62251,SCUP Digital Workflow,6225,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+NONRATING_TAXES_FEE_PROD@MSSQLSERVER@pwawadbcm62255,SCUP Digital Workflow,6225,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+WorkItems@MSSQLSERVER@pwawadbcm62253,SCUP Digital Workflow,6225,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+Submissions@MSSQLSERVER@pwawadbcm62255,SCUP Digital Workflow,6225,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+EntityNumberManagement_PROD@MSSQLSERVER@pwawadbcm62252,SCUP Digital Workflow,6225,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+BizSvcUtility@MSSQLSERVER@pwawadbcm62253,SCUP Digital Workflow,6225,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+Camunda@MSSQLSERVER@pwawadbcm62254,SCUP Digital Workflow,6225,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+Submissions@MSSQLSERVER@pwawadbcm62252,SCUP Digital Workflow,6225,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+NextLabsPROD@MSSQLSERVER@pwawadbcm62255,SCUP Entitlements,6224,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+GLMS_CAMUNDA_Prod@MSSQLSERVER@pwawdbcm64124,Global Location Management System,6412,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+DWF_TEMPDATA@MSSQLSERVER@pwawadbcm62253,SCUP Digital Workflow,6225,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+EntityNumberManagement_PROD@MSSQLSERVER@pwawadbcm62253,SCUP Digital Workflow,6225,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+UWFiles@MSSQLSERVER@pwawadbcm62252,SCUP Digital Workflow,6225,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+PolicyServicing@MSSQLSERVER@pwawadbcm62256,SCUP Digital Workflow,6225,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+EntityNumberManagement_PROD@MSSQLSERVER@pwawadbcm62254,SCUP Digital Workflow,6225,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+WorkItems@MSSQLSERVER@pwawadbcm62252,SCUP Digital Workflow,6225,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+NONRATING_REINSURANCE_PROD@MSSQLSERVER@pwawadbcm62256,SCUP Digital Workflow,6225,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+NONRATING_REINSURANCE_PROD@MSSQLSERVER@pwawadbcm62251,SCUP Digital Workflow,6225,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+Account@MSSQLSERVER@pwawadbcm62254,SCUP Digital Workflow,6225,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+Policy@MSSQLSERVER@pwawadbcm62255,SCUP Digital Workflow,6225,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+GLMS_LocMaster_InsObj_Prod@MSSQLSERVER@pwawdbcm64123,Global Location Management System,6412,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+NONRATING_LOSS_HISTORY_PROD@MSSQLSERVER@pwawadbcm62255,SCUP Digital Workflow,6225,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+BizSvcUtility@MSSQLSERVER@pwawadbcm62254,SCUP Digital Workflow,6225,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+Entitlement_Roles@MSSQLSERVER@pwawadbcm62254,SCUP Entitlements,6224,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+Quote@MSSQLSERVER@pwawadbcm62255,SCUP Digital Workflow,6225,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+GLMS_CAMUNDA_Prod@MSSQLSERVER@pwawdbcm64121,Global Location Management System,6412,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+Subjectivities@MSSQLSERVER@pwawadbcm62253,SCUP Digital Workflow,6225,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+Account@MSSQLSERVER@pwawadbcm62256,SCUP Digital Workflow,6225,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+Camunda@MSSQLSERVER@pwawadbcm62256,SCUP Digital Workflow,6225,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+Renewal@MSSQLSERVER@pwawadbcm62251,SCUP Digital Workflow,6225,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+NONRATING_LOSS_HISTORY_PROD@MSSQLSERVER@pwawadbcm62252,SCUP Digital Workflow,6225,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+Subjectivities@MSSQLSERVER@pwawadbcm62251,SCUP Digital Workflow,6225,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+Book@MSSQLSERVER@pwawadbcm62251,SCUP Digital Workflow,6225,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+Quote@MSSQLSERVER@pwawadbcm62253,SCUP Digital Workflow,6225,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+Submissions@MSSQLSERVER@pwawadbcm62251,SCUP Digital Workflow,6225,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+PolicyServicing@MSSQLSERVER@pwawadbcm62255,SCUP Digital Workflow,6225,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+GLMS_MandR_Prod@MSSQLSERVER@pwawdbcm64121,Global Location Management System,6412,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+Quote@MSSQLSERVER@pwawadbcm62251,SCUP Digital Workflow,6225,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+NextLabsPROD@MSSQLSERVER@pwawadbcm62256,SCUP Entitlements,6224,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+Policy@MSSQLSERVER@pwawadbcm62253,SCUP Digital Workflow,6225,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+NONRATING_EXPOSURE_SCHEDULE_PROD@MSSQLSERVER@pwawadbcm62256,SCUP Digital Workflow,6225,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+GLMS_CAMUNDA_Prod@MSSQLSERVER@pwawdbcm64122,Global Location Management System,6412,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+Book@MSSQLSERVER@pwawadbcm62254,SCUP Digital Workflow,6225,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+Quote@MSSQLSERVER@pwawadbcm62256,SCUP Digital Workflow,6225,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+WorkItems@MSSQLSERVER@pwawadbcm62251,SCUP Digital Workflow,6225,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+Camunda@MSSQLSERVER@pwawadbcm62251,SCUP Digital Workflow,6225,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+DWF_TEMPDATA@MSSQLSERVER@pwawadbcm62251,SCUP Digital Workflow,6225,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+EntityNumberManagement_PROD@MSSQLSERVER@pwawadbcm62255,SCUP Digital Workflow,6225,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+Quote@MSSQLSERVER@pwawadbcm62254,SCUP Digital Workflow,6225,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+NONRATING_REINSURANCE_PROD@MSSQLSERVER@pwawadbcm62252,SCUP Digital Workflow,6225,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+Policy@MSSQLSERVER@pwawadbcm62251,SCUP Digital Workflow,6225,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+WorkItems@MSSQLSERVER@pwawadbcm62255,SCUP Digital Workflow,6225,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+EventHub@MSSQLSERVER@pwawadbcm62255,SCUP Digital Workflow,6225,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+SQLMON@MSSQLSERVER@pwawadbcm62255,SCUP Digital Workflow,6225,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+BizSvcUtility@MSSQLSERVER@pwawadbcm62256,SCUP Digital Workflow,6225,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+Submissions@MSSQLSERVER@pwawadbcm62253,SCUP Digital Workflow,6225,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+PolicyServicing@MSSQLSERVER@pwawadbcm62253,SCUP Digital Workflow,6225,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+UWFiles@MSSQLSERVER@pwawadbcm62254,SCUP Digital Workflow,6225,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+NextLabsPROD@MSSQLSERVER@pwawadbcm62252,SCUP Entitlements,6224,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+Book@MSSQLSERVER@pwawadbcm62255,SCUP Digital Workflow,6225,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+Entitlement_Roles@MSSQLSERVER@pwawadbcm62252,SCUP Entitlements,6224,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+GLMS_CAMUNDA_Prod@MSSQLSERVER@pwawdbcm64123,Global Location Management System,6412,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+Notifications@MSSQLSERVER@pwawadbcm62255,SCUP Digital Workflow,6225,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+NONRATING_TAXES_FEE_PROD@MSSQLSERVER@pwawadbcm62252,SCUP Digital Workflow,6225,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+Camunda@MSSQLSERVER@pwawadbcm62255,SCUP Digital Workflow,6225,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+Account@MSSQLSERVER@pwawadbcm62252,SCUP Digital Workflow,6225,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+NextLabsPROD@MSSQLSERVER@pwawadbcm62254,SCUP Entitlements,6224,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+NONRATING_EXPOSURE_SCHEDULE_PROD@MSSQLSERVER@pwawadbcm62255,SCUP Digital Workflow,6225,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+SQLMON@MSSQLSERVER@pwawadbcm62251,SCUP Digital Workflow,6225,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+Subjectivities@MSSQLSERVER@pwawadbcm62256,SCUP Digital Workflow,6225,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+DWF_TEMPDATA@MSSQLSERVER@pwawadbcm62254,SCUP Digital Workflow,6225,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+WorkItems@MSSQLSERVER@pwawadbcm62256,SCUP Digital Workflow,6225,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+Policy@MSSQLSERVER@pwawadbcm62252,SCUP Digital Workflow,6225,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+GLMS_GPPolicy_Prod@MSSQLSERVER@pwawdbcm64123,Global Location Management System,6412,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+NONRATING_TAXES_FEE_PROD@MSSQLSERVER@pwawadbcm62254,SCUP Digital Workflow,6225,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+UWFiles@MSSQLSERVER@pwawadbcm62256,SCUP Digital Workflow,6225,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+NONRATING_EXPOSURE_SCHEDULE_PROD@MSSQLSERVER@pwawadbcm62254,SCUP Digital Workflow,6225,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+GLMS_MandR_Prod@MSSQLSERVER@pwawdbcm64122,Global Location Management System,6412,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+NONRATING_EXPOSURE_SCHEDULE_PROD@MSSQLSERVER@pwawadbcm62253,SCUP Digital Workflow,6225,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+EventHub@MSSQLSERVER@pwawadbcm62253,SCUP Digital Workflow,6225,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+Submissions@MSSQLSERVER@pwawadbcm62254,SCUP Digital Workflow,6225,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+NONRATING_REINSURANCE_PROD@MSSQLSERVER@pwawadbcm62253,SCUP Digital Workflow,6225,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+Quote@MSSQLSERVER@pwawadbcm62252,SCUP Digital Workflow,6225,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+NONRATING_LOSS_HISTORY_PROD@MSSQLSERVER@pwawadbcm62254,SCUP Digital Workflow,6225,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+Renewal@MSSQLSERVER@pwawadbcm62254,SCUP Digital Workflow,6225,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+UWFiles@MSSQLSERVER@pwawadbcm62255,SCUP Digital Workflow,6225,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+Renewal@MSSQLSERVER@pwawadbcm62252,SCUP Digital Workflow,6225,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+UWFiles@MSSQLSERVER@pwawadbcm62253,SCUP Digital Workflow,6225,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+GLMS_LocMaster_InsObj_Prod@MSSQLSERVER@pwawdbcm64121,Global Location Management System,6412,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+NONRATING_TAXES_FEE_PROD@MSSQLSERVER@pwawadbcm62256,SCUP Digital Workflow,6225,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+DWF_TEMPDATA@MSSQLSERVER@pwawadbcm62256,SCUP Digital Workflow,6225,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+Notifications@MSSQLSERVER@pwawadbcm62253,SCUP Digital Workflow,6225,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+NextLabsPROD@MSSQLSERVER@pwawadbcm62253,SCUP Entitlements,6224,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+GLMS_GPPolicy_Prod@MSSQLSERVER@pwawdbcm64122,Global Location Management System,6412,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+PolicyServicing@MSSQLSERVER@pwawadbcm62254,SCUP Digital Workflow,6225,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+Entitlement_Roles@MSSQLSERVER@pwawadbcm62251,SCUP Entitlements,6224,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+GLMS_LocMaster_InsObj_Prod@MSSQLSERVER@pwawdbcm64122,Global Location Management System,6412,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+GLMS_LocMaster_InsObj_Prod@MSSQLSERVER@pwawdbcm64124,Global Location Management System,6412,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+PolicyServicing@MSSQLSERVER@pwawadbcm62251,SCUP Digital Workflow,6225,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+Renewal@MSSQLSERVER@pwawadbcm62253,SCUP Digital Workflow,6225,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+EntityNumberManagement_PROD@MSSQLSERVER@pwawadbcm62251,SCUP Digital Workflow,6225,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+NONRATING_TAXES_FEE_PROD@MSSQLSERVER@pwawadbcm62253,SCUP Digital Workflow,6225,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+GLMS_TIDES_Prod@MSSQLSERVER@pwawdbcm64121,Global Location Management System,6412,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+NONRATING_TAXES_FEE_PROD@MSSQLSERVER@pwawadbcm62251,SCUP Digital Workflow,6225,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+NONRATING_LOSS_HISTORY_PROD@MSSQLSERVER@pwawadbcm62253,SCUP Digital Workflow,6225,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+Entitlement_Roles@MSSQLSERVER@pwawadbcm62256,SCUP Entitlements,6224,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+GLMS_GPPolicy_Prod@MSSQLSERVER@pwawdbcm64124,Global Location Management System,6412,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+EventHub@MSSQLSERVER@pwawadbcm62256,SCUP Digital Workflow,6225,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+Subjectivities@MSSQLSERVER@pwawadbcm62255,SCUP Digital Workflow,6225,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+GLMS_TIDES_Prod@MSSQLSERVER@pwawdbcm64122,Global Location Management System,6412,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+EventHub@MSSQLSERVER@pwawadbcm62254,SCUP Digital Workflow,6225,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+GLMS_MandR_Prod@MSSQLSERVER@pwawdbcm64123,Global Location Management System,6412,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+Camunda@MSSQLSERVER@pwawadbcm62253,SCUP Digital Workflow,6225,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+Account@MSSQLSERVER@pwawadbcm62253,SCUP Digital Workflow,6225,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+BizSvcUtility@MSSQLSERVER@pwawadbcm62252,SCUP Digital Workflow,6225,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+EntityNumberManagement_PROD@MSSQLSERVER@pwawadbcm62256,SCUP Digital Workflow,6225,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+EventHub@MSSQLSERVER@pwawadbcm62252,SCUP Digital Workflow,6225,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+Account@MSSQLSERVER@pwawadbcm62251,SCUP Digital Workflow,6225,cmdb_ci_db_mssql_catalog,Installed,,Operational,AIGGS-Database Services
+Book@MSSQLSERVER@pwawadbcm62252,SCUP Digital Workflow,6225,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+SQLMON@MSSQLSERVER@pwawadbcm62254,SCUP Digital Workflow,6225,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+Book@MSSQLSERVER@pwawadbcm62253,SCUP Digital Workflow,6225,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+WorkItems@MSSQLSERVER@pwawadbcm62254,SCUP Digital Workflow,6225,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+UWFiles@MSSQLSERVER@pwawadbcm62251,SCUP Digital Workflow,6225,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+GLMS_MandR_Prod@MSSQLSERVER@pwawdbcm64124,Global Location Management System,6412,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+NONRATING_REINSURANCE_PROD@MSSQLSERVER@pwawadbcm62254,SCUP Digital Workflow,6225,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+GLMS_TIDES_Prod@MSSQLSERVER@pwawdbcm64123,Global Location Management System,6412,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+NONRATING_EXPOSURE_SCHEDULE_PROD@MSSQLSERVER@pwawadbcm62252,SCUP Digital Workflow,6225,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+NONRATING_LOSS_HISTORY_PROD@MSSQLSERVER@pwawadbcm62251,SCUP Digital Workflow,6225,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+Notifications@MSSQLSERVER@pwawadbcm62251,SCUP Digital Workflow,6225,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+DWF_TEMPDATA@MSSQLSERVER@pwawadbcm62255,SCUP Digital Workflow,6225,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+Notifications@MSSQLSERVER@pwawadbcm62252,SCUP Digital Workflow,6225,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+Subjectivities@MSSQLSERVER@pwawadbcm62252,SCUP Digital Workflow,6225,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+PolicyServicing@MSSQLSERVER@pwawadbcm62252,SCUP Digital Workflow,6225,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+GLMS_GPPolicy_Prod@MSSQLSERVER@pwawdbcm64121,Global Location Management System,6412,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+Submissions@MSSQLSERVER@pwawadbcm62256,SCUP Digital Workflow,6225,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+Renewal@MSSQLSERVER@pwawadbcm62256,SCUP Digital Workflow,6225,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+NONRATING_REINSURANCE_PROD@MSSQLSERVER@pwawadbcm62255,SCUP Digital Workflow,6225,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+Book@MSSQLSERVER@pwawadbcm62256,SCUP Digital Workflow,6225,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+DWF_TEMPDATA@MSSQLSERVER@pwawadbcm62252,SCUP Digital Workflow,6225,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+Notifications@MSSQLSERVER@pwawadbcm62256,SCUP Digital Workflow,6225,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+Camunda@MSSQLSERVER@pwawadbcm62252,SCUP Digital Workflow,6225,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+EventHub@MSSQLSERVER@pwawadbcm62251,SCUP Digital Workflow,6225,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+Notifications@MSSQLSERVER@pwawadbcm62254,SCUP Digital Workflow,6225,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+Entitlement_Roles@MSSQLSERVER@pwawadbcm62253,SCUP Entitlements,6224,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+Policy@MSSQLSERVER@pwawadbcm62254,SCUP Digital Workflow,6225,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+SQLMON@MSSQLSERVER@pwawadbcm62256,SCUP Digital Workflow,6225,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+BizSvcUtility@MSSQLSERVER@pwawadbcm62255,SCUP Digital Workflow,6225,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+Subjectivities@MSSQLSERVER@pwawadbcm62254,SCUP Digital Workflow,6225,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+SQLMON@MSSQLSERVER@pwawadbcm62252,SCUP Digital Workflow,6225,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+GLMS_TIDES_Prod@MSSQLSERVER@pwawdbcm64124,Global Location Management System,6412,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+NextLabsPROD@MSSQLSERVER@pwawadbcm62251,SCUP Entitlements,6224,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+SQLMON@MSSQLSERVER@pwawadbcm62253,SCUP Digital Workflow,6225,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+Entitlement_Roles@MSSQLSERVER@pwawadbcm62255,SCUP Entitlements,6224,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+Renewal@MSSQLSERVER@pwawadbcm62255,SCUP Digital Workflow,6225,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+NONRATING_LOSS_HISTORY_PROD@MSSQLSERVER@pwawadbcm62256,SCUP Digital Workflow,6225,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+BizSvcUtility@MSSQLSERVER@pwawadbcm62251,SCUP Digital Workflow,6225,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+Policy@MSSQLSERVER@pwawadbcm62256,SCUP Digital Workflow,6225,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+Account@MSSQLSERVER@pwawadbcm62255,SCUP Digital Workflow,6225,cmdb_ci_db_mssql_catalog,Installed,,Operational,DBG CTO DBA
+GLMS_TIDES_Prod,Global Location Management System,6412,cmdb_ci_db_mssql_database,Installed,,Operational,
+MSSQLSERVER@pwawdbcm64124,Global Location Management System,6412,cmdb_ci_db_mssql_instance,Installed,,Operational,AIGGS-Database Services
+MSSQLSERVER@pwawadbcm62253,SCUP Entitlements,6224,cmdb_ci_db_mssql_instance,Installed,,Operational,AIGGS-Database Services
+MSSQLSERVER@pwawadbcm62253,SCUP Digital Workflow,6225,cmdb_ci_db_mssql_instance,Installed,,Operational,AIGGS-Database Services
+MSSQLSERVER@pwawadbcm62254,SCUP Digital Workflow,6225,cmdb_ci_db_mssql_instance,Installed,,Operational,AIGGS-Database Services
+MSSQLSERVER@pwawadbcm62254,SCUP Entitlements,6224,cmdb_ci_db_mssql_instance,Installed,,Operational,AIGGS-Database Services
+MSSQLSERVER@pwawadbcm62252,SCUP Entitlements,6224,cmdb_ci_db_mssql_instance,Installed,,Operational,AIGGS-Database Services
+MSSQLSERVER@pwawadbcm62252,SCUP Digital Workflow,6225,cmdb_ci_db_mssql_instance,Installed,,Operational,AIGGS-Database Services
+MSSQLSERVER@pwawadbcm62256,SCUP Digital Workflow,6225,cmdb_ci_db_mssql_instance,Installed,,Operational,AIGGS-Database Services
+MSSQLSERVER@pwawadbcm62256,SCUP Entitlements,6224,cmdb_ci_db_mssql_instance,Installed,,Operational,AIGGS-Database Services
+MSSQLSERVER@pwawdbcm64123,Global Location Management System,6412,cmdb_ci_db_mssql_instance,Installed,,Operational,AIGGS-Database Services
+MSSQLSERVER@pwawadbcm62251,SCUP Digital Workflow,6225,cmdb_ci_db_mssql_instance,Installed,,Operational,AIGGS-Database Services
+MSSQLSERVER@pwawdbcm64121,Global Location Management System,6412,cmdb_ci_db_mssql_instance,Installed,,Operational,AIGGS-Database Services
+MSSQLSERVER@pwawdbcm64122,Global Location Management System,6412,cmdb_ci_db_mssql_instance,Installed,,Operational,AIGGS-Database Services
+MSSQLSERVER@pwawadbcm62251,SCUP Entitlements,6224,cmdb_ci_db_mssql_instance,Installed,,Operational,AIGGS-Database Services
+MSSQLSERVER@pwawadbcm62255,SCUP Entitlements,6224,cmdb_ci_db_mssql_instance,Installed,,Operational,AIGGS-Database Services
+MSSQLSERVER@pwawadbcm62255,SCUP Digital Workflow,6225,cmdb_ci_db_mssql_instance,Installed,,Operational,AIGGS-Database Services
+awsmnwp@awsmnwp@plawdocm36531,MN-Workflow Xpress,3653,cmdb_ci_db_ora_catalog,Installed,,Operational,DBG CTO DBA
+awsmnwp@awsmnwp_ha@plawdocm36532,MN-Workflow Xpress,3653,cmdb_ci_db_ora_catalog,Installed,,Operational,DBG CTO DBA
+awsmnwp_dr@awsmnwp_dr@rlawdocm36531,MN-Workflow Xpress,3653,cmdb_ci_db_ora_catalog,In Use,,Operational,DBG CTO DBA
+awsmnwp_ha@plawdocm36532,MN-Workflow Xpress,3653,cmdb_ci_db_ora_instance,In Use,10.13.25.194,Operational,AIGGS-Database Services
+awsmnwp@plawdocm36531,MN-Workflow Xpress,3653,cmdb_ci_db_ora_instance,In Use,10.13.24.162,Operational,AIGGS-Database Services
+awsmnwp_dr@rlawdocm36531,MN-Workflow Xpress,3653,cmdb_ci_db_ora_instance,In Use,10.15.24.179,Operational,AIGGS-Database Services
+GDGNPRG4@SYBLGAINP@plgidsuwesup001,UW-GAIN,989,cmdb_ci_db_syb_catalog,Installed,,Operational,DBG CTO DBA
+audit_db@SYBLGAINP@plgidsuwesup001,UW-GAIN,989,cmdb_ci_db_syb_catalog,Installed,,Operational,DBG CTO DBA
+GDS3SRPR@SYBLGAINP@plgidsuwesup001,UW-GAIN,989,cmdb_ci_db_syb_catalog,Installed,,Operational,DBG CTO DBA
+SYBLGAINP@plgidsuwesup001,UW-GAIN,989,cmdb_ci_db_syb_instance,In Use,10.9.21.198,Operational,AIGGS-Database Services
+plgsascs6412001,Global Location Management System,6412,cmdb_ci_linux_server,In Use,10.9.23.141,Operational,Linux Operations
+plgsascs6412003,Global Location Management System,6412,cmdb_ci_linux_server,In Use,10.9.23.143,Operational,Linux Operations
+rlawwwcm3653006,MN-Workflow Xpress,3653,cmdb_ci_linux_server,In Use,10.15.24.122,Operational,Cloud IaaS Services
+plgiasuwgnel002,UW-GAIN,989,cmdb_ci_linux_server,In Use,10.9.21.197,Operational,Linux Operations
+plgsdscs6224002,SCUP Digital Workflow,6225,cmdb_ci_linux_server,In Use,10.9.23.146,Operational,Linux Operations
+rlawwtcm3653001,MN-Workflow Xpress,3653,cmdb_ci_linux_server,In Use,10.15.24.65,Operational,Cloud IaaS Services
+plgsdscs6224002,SCUP Entitlements,6224,cmdb_ci_linux_server,In Use,10.9.23.146,Operational,Linux Operations
+rlawdocm36531,MN-Workflow Xpress,3653,cmdb_ci_linux_server,In Use,10.15.24.179,Operational,Cloud IaaS Services
+plawdocm36532,MN-Workflow Xpress,3653,cmdb_ci_linux_server,In Use,10.13.25.194,Operational,Cloud IaaS Services
+plgiasuwgnel001,UW-GAIN,989,cmdb_ci_linux_server,In Use,10.9.21.196,Operational,Linux Operations
+plawdocm36531,MN-Workflow Xpress,3653,cmdb_ci_linux_server,In Use,10.13.24.162,Operational,Cloud IaaS Services
+plgsdscs6224004,SCUP Digital Workflow,6225,cmdb_ci_linux_server,In Use,10.170.23.128,Operational,Linux Operations
+rlawwtcm3653003,MN-Workflow Xpress,3653,cmdb_ci_linux_server,In Use,10.15.24.126,Operational,Cloud IaaS Services
+plgsdscs6224003,SCUP Digital Workflow,6225,cmdb_ci_linux_server,In Use,10.170.23.127,Operational,Linux Operations
+plgsdscs6224001,SCUP Digital Workflow,6225,cmdb_ci_linux_server,In Use,10.9.23.145,Operational,Linux Operations
+plgsdscs6224001,SCUP Entitlements,6224,cmdb_ci_linux_server,In Use,10.9.23.145,Operational,Linux Operations
+plgsdscs6224000,SCUP Entitlements,6224,cmdb_ci_linux_server,In Use,10.9.23.144,Operational,Linux Operations
+plgsdscs6224000,SCUP Digital Workflow,6225,cmdb_ci_linux_server,In Use,10.9.23.144,Operational,Linux Operations
+plgsascs6412002,Global Location Management System,6412,cmdb_ci_linux_server,In Use,10.9.23.142,Operational,Linux Operations
+plchwscmniweb01,UW-GAIN,989,cmdb_ci_linux_server,In Use,10.9.21.194,Operational,Linux Operations
+plgsdscs6224005,SCUP Entitlements,6224,cmdb_ci_linux_server,In Use,10.170.23.129,Operational,Linux Operations
+plchwscmniweb02,UW-GAIN,989,cmdb_ci_linux_server,In Use,10.9.21.195,Operational,Linux Operations
+rlawwtcm3653002,MN-Workflow Xpress,3653,cmdb_ci_linux_server,In Use,10.15.24.194,Operational,Cloud IaaS Services
+plgsdscs6224004,SCUP Entitlements,6224,cmdb_ci_linux_server,In Use,10.170.23.128,Operational,Linux Operations
+plgsascs6224006,SCUP Entitlements,6224,cmdb_ci_linux_server,In Use,10.9.20.170,Operational,Linux Operations
+rlawwwcm3653005,MN-Workflow Xpress,3653,cmdb_ci_linux_server,In Use,10.15.24.193,Operational,Cloud IaaS Services
+plgsdscs6224005,SCUP Digital Workflow,6225,cmdb_ci_linux_server,In Use,10.170.23.129,Operational,Linux Operations
+rlawwtcm3653004,MN-Workflow Xpress,3653,cmdb_ci_linux_server,In Use,10.15.24.138,Operational,Cloud IaaS Services
+plgsdscs6224003,SCUP Entitlements,6224,cmdb_ci_linux_server,In Use,10.170.23.127,Operational,Linux Operations
+plgidsuwesup001,UW-GAIN,989,cmdb_ci_linux_server,In Use,10.9.21.198,Operational,Linux Operations
+BBBB,UW-GAIN,989,cmdb_ci_mainframe_lpar,In Use,172.20.129.169,Operational,MF Tec Sup-Op Sys1
+AAAA,UW-GAIN,989,cmdb_ci_mainframe_lpar,In Use,172.20.129.129,Operational,MF Tec Sup-Op Sys1
+am1isi3-grp03,SCUP Digital Workflow,6225,cmdb_ci_storage_server,Installed,10.247.105.213,Operational,DELL STaaS-Ops
+https://isuite.aig.net/prweb/PRExt,UW-GAIN,989,cmdb_ci_web_site,Absent,,Operational,UW-ISUITE
+pwgidscvglsq001,Global Location Management System,6412,cmdb_ci_win_cluster,Installed,,Operational,
+pwgidscvdssq001,SCUP Entitlements,6224,cmdb_ci_win_cluster,Installed,,Operational,
+pwgidscvdssq001,SCUP Digital Workflow,6225,cmdb_ci_win_cluster,Installed,,Operational,
+pwawadbcm62253,SCUP Digital Workflow,6225,cmdb_ci_win_cluster_node,Installed,,Operational,
+pwawadbcm62251,SCUP Entitlements,6224,cmdb_ci_win_cluster_node,Installed,,Operational,
+pwawdbcm64124,Global Location Management System,6412,cmdb_ci_win_cluster_node,Installed,,Operational,
+pwawadbcm62251,SCUP Digital Workflow,6225,cmdb_ci_win_cluster_node,Installed,,Operational,
+pwawdbcm64123,Global Location Management System,6412,cmdb_ci_win_cluster_node,Installed,,Operational,
+pwawadbcm62254,SCUP Digital Workflow,6225,cmdb_ci_win_cluster_node,Installed,,Operational,
+pwawadbcm62254,SCUP Entitlements,6224,cmdb_ci_win_cluster_node,Installed,,Operational,
+pwawdbcm64121,Global Location Management System,6412,cmdb_ci_win_cluster_node,Installed,,Operational,
+pwawadbcm62253,SCUP Entitlements,6224,cmdb_ci_win_cluster_node,Installed,,Operational,
+pwawadbcm62255,SCUP Digital Workflow,6225,cmdb_ci_win_cluster_node,Installed,,Operational,
+pwawadbcm62255,SCUP Entitlements,6224,cmdb_ci_win_cluster_node,Installed,,Operational,
+pwawadbcm62256,SCUP Entitlements,6224,cmdb_ci_win_cluster_node,Installed,,Operational,
+pwawadbcm62256,SCUP Digital Workflow,6225,cmdb_ci_win_cluster_node,Installed,,Operational,
+pwawdbcm64122,Global Location Management System,6412,cmdb_ci_win_cluster_node,Installed,,Operational,
+pwawadbcm62252,SCUP Digital Workflow,6225,cmdb_ci_win_cluster_node,Installed,,Operational,
+pwawadbcm62252,SCUP Entitlements,6224,cmdb_ci_win_cluster_node,Installed,,Operational,
+pwawadbcm62256,SCUP Entitlements,6224,cmdb_ci_win_server,In Use,10.169.159.46,Operational,Cloud IaaS Services
+pwawqucm62251,SCUP Digital Workflow,6225,cmdb_ci_win_server,In Use,10.147.143.158,Operational,Cloud IaaS Services
+pwawqucm62251,SCUP Entitlements,6224,cmdb_ci_win_server,In Use,10.147.143.158,Operational,Cloud IaaS Services
+pwawadbcm62252,SCUP Digital Workflow,6225,cmdb_ci_win_server,In Use,10.147.142.142,Operational,Cloud IaaS Services
+pwawadbcm62252,SCUP Entitlements,6224,cmdb_ci_win_server,In Use,10.147.142.142,Operational,Cloud IaaS Services
+pwawqucm64121,Global Location Management System,6412,cmdb_ci_win_server,In Use,10.147.143.228,Operational,Cloud IaaS Services
+pwawdbcm64121,Global Location Management System,6412,cmdb_ci_win_server,In Use,10.147.143.197,Operational,Cloud IaaS Services
+pwawdbcm64123,Global Location Management System,6412,cmdb_ci_win_server,In Use,10.169.158.196,Operational,Cloud IaaS Services
+pwawdbcm64122,Global Location Management System,6412,cmdb_ci_win_server,In Use,10.147.142.42,Operational,Cloud IaaS Services
+pwawadbcm62254,SCUP Digital Workflow,6225,cmdb_ci_win_server,In Use,10.169.158.13,Operational,Cloud IaaS Services
+pwawadbcm62254,SCUP Entitlements,6224,cmdb_ci_win_server,In Use,10.169.158.13,Operational,Cloud IaaS Services
+pwawadbcm62251,SCUP Entitlements,6224,cmdb_ci_win_server,In Use,10.147.143.167,Operational,Cloud IaaS Services
+pwawadbcm62256,SCUP Digital Workflow,6225,cmdb_ci_win_server,In Use,10.169.159.46,Operational,Cloud IaaS Services
+pwawdbcm64124,Global Location Management System,6412,cmdb_ci_win_server,In Use,10.169.157.254,Operational,Cloud IaaS Services
+pwawadbcm62255,SCUP Digital Workflow,6225,cmdb_ci_win_server,In Use,10.169.157.97,Operational,Cloud IaaS Services
+pwawadbcm62253,SCUP Entitlements,6224,cmdb_ci_win_server,In Use,10.147.141.38,Operational,Cloud IaaS Services
+pwawadbcm62253,SCUP Digital Workflow,6225,cmdb_ci_win_server,In Use,10.147.141.38,Operational,Cloud IaaS Services
+pwawadbcm62255,SCUP Entitlements,6224,cmdb_ci_win_server,In Use,10.169.157.97,Operational,Cloud IaaS Services
+pwawadbcm62251,SCUP Digital Workflow,6225,cmdb_ci_win_server,In Use,10.147.143.167,Operational,Cloud IaaS Services

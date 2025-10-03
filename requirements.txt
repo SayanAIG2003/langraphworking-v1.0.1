@@ -1,0 +1,11 @@
+uvicorn
+pydantic
+langchain
+langgraph
+langchain-aws
+langchain-chroma
+pandas
+langsmith
+boto3
+faiss-cpu
+fastapi
