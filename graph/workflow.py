@@ -73,7 +73,11 @@ def create_workflow_nodes(bedrock_llm, simple_change_tool, simple_cmdb_tool, sim
             
             # Store result and update context
             state["intermediate_results"].append(result)
-            
+            print("@"*60, f"\n Result : \n {result.get('raw_docs', [])}")
+            zz = bedrock_llm.invoke("Write this data in tabular format as markdown format and dont write anything else\n" + "\n".join(str(doc) for doc in result.get('raw_docs', [])))
+            print("@"*60, f"\n Retrieved raw data for step_{current_step['step']}= {tool_name} : \n {zz.content}")
+            state["retrieved_raw_data"] += zz.content + "\n"
+
             if result["success"]:
                 # Add analysis to context for next steps
                 state["context_data"][f"step_{current_step['step']}_analysis"] = result["analysis"]

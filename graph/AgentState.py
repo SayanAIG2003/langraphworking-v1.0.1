@@ -19,3 +19,4 @@ class AgentState(TypedDict):
     max_total_iterations: int
     # NEW: Conversation history
     conversation_history: List[Dict[str, str]]
+    retrieved_raw_data: str 

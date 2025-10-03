@@ -10,9 +10,18 @@ from graph.workflow import create_workflow
 from retrievers.change_retriever import ChangeRequestRetriever
 from retrievers.cmdb_retriever import AppCmdbRetriever  
 from retrievers.incident_retriever import IncidentRetriever
+from fastapi.middleware.cors import CORSMiddleware
 
 # Initialize FastAPI
 app = FastAPI(title="IT Service Management Assistant", version="1.0.1")
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 
 # Global variables for components
 simple_app = None
@@ -146,7 +155,8 @@ async def process_query(request: QueryRequest):
             "max_step_attempts": 2,
             "total_iterations": 0,
             "max_total_iterations": 10,
-            "conversation_history": conversation_history.copy()  # Pass conversation history
+            "conversation_history": conversation_history.copy(),
+            "retrieved_raw_data": []
         }
     
     config = {
@@ -164,10 +174,11 @@ async def process_query(request: QueryRequest):
             "execution_plan": result.get('execution_plan', [])
         }
         conversation_history.append({"role": "assistant", "content": result['final_response']})
+        documents = str(result.get('retrieved_raw_data', ""))
         
         return QueryResponse(
             response=result['final_response'],
-            retrieved_docs=str(result.get('retrieved_raw_data', [])),
+            retrieved_docs=documents,
             thread_id=thread_id,
             debug_info=debug_info
         )
